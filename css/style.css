@@ -1,7 +1,13 @@
+  
 body {
-    background-color: aliceblue;
+  background-color: aliceblue;
 }
 .container{
-  text-align: center;
-  color: black;
+text-align: center;
+color: black;
+}
+.card{
+  width: 400px;
+  position: relative;
+  float: left;
 }
